@@ -18,7 +18,7 @@ let x = longest_consec(test_array, 2);
 console.log(x); // "folingtrashy"
 
 /*
-Explaination:
+Time and space complexity Explaination:
 This solution has a time complexity of O(n*k) and a space complexity of O(n), 
 where n is the length of the input array strarr 
 and k is the number of consecutive strings to concatenate.
