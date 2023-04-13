@@ -1,6 +1,6 @@
-<h1>eminds.ai problem statement</h1>
+<h1>eMinds.ai Problem Statement</h1>
 
-<h3>This Repository os for the sole purpose of displaying Test results of eminds.ai</h3>
+<h3>This repository is dedicated to showcasing the test results of eMinds.ai Problem Statement</h3>
 
 <h3>Test Question is as follows:</h3>
 
