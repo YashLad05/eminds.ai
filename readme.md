@@ -9,5 +9,5 @@
 <p>In the given solution: </p>
 <ul>
         <li>Provided Time and space complexity of solution in code comment</li>
-        <li>Added more test cases inclusing edge cases for the problem</li>
+        <li>Added more test cases including edge cases for the problem</li>
 </ul>
